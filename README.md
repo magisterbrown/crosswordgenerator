@@ -9,7 +9,7 @@ optional arguments:<br/>
   `-r , --run`     run with selected data set [set name]<br/>
   `-g, --getlist`  get list of data sets<br/>
   
-To get list of avalable dictionaries run `python main.py -g`
+To get list of avalable dictionaries run `python main.py -g`<br/>
 `Sets:`<br/>
 `basic`<br/>
 `biology`<br/>
