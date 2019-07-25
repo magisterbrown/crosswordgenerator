@@ -10,10 +10,12 @@ optional arguments:<br/>
   `-r , --run`     run with selected data set [set name]<br/>
   `-g, --getlist`  get list of data sets<br/>
   
-To get list of avalable dictionaries run `python main.py -g`<br/>
+To get list of avalable word sets run `python main.py -g`<br/>
 `Sets:`<br/>
 `basic`<br/>
 `biology`<br/>
 `literature`
 
-Than to strat generation process run `python main.py -r [set name]` with name of one dictionary.
+Than to strat generation process run `python main.py -r [set name]` with name of one word set.<br/>
+Set proportions:<br/>
+
