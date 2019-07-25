@@ -1,5 +1,6 @@
 # CrosswordGenerator
-Crossword Generator is a programm that allows to generate crosswords from custom dictionaries and solve them.
+Crossword Generator is a programm that allows to generate crosswords from custom word sets and solve them.<br/>
+At preinstalled word sets dictionarry meanings are used as a questions. 
 # Usage
 CLI structure: `main.py [-h] [-a ] [-r] [-g]`
 
@@ -15,6 +16,4 @@ To get list of avalable dictionaries run `python main.py -g`<br/>
 `biology`<br/>
 `literature`
 
-sasdasd
-asdasd
-assa
+Than to strat generation process run `python main.py -r [set name]` with name of one dictionary.
