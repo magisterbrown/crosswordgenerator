@@ -10,12 +10,10 @@ optional arguments:
   `-g, --getlist`  get list of data sets
   
 To get list of avalable dictionaries run `python main.py -g`
-\n
-`python main.py -g`
-`Sets:`
+(`Sets:`
 `basic`
 `biology`
-`literature`
+`literature`)
 
 sasdasd
 asdasd
