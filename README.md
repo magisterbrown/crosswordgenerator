@@ -11,12 +11,12 @@ optional arguments:
   
 To get list of avalable dictionaries run `python main.py -g`
 \n
-`python main.py -g
-Sets:
-basic
-biology
-literature
-`
+`python main.py -g`
+`Sets:`
+`basic`
+`biology`
+`literature`
+
 sasdasd
 asdasd
 assa
