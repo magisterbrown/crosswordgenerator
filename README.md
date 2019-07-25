@@ -3,17 +3,17 @@ Crossword Generator is a programm that allows to generate crosswords from custom
 # Usage
 CLI structure: `main.py [-h] [-a ] [-r] [-g]`
 
-optional arguments:
-  `-h, --help`     show this help message and exit
-  `-a  , --add`    add new data set [set name] [words file]
-  `-r , --run`     run with selected data set [set name]
-  `-g, --getlist`  get list of data sets
+optional arguments:<br/>
+  `-h, --help`     show this help message and exit<br/>
+  `-a  , --add`    add new data set [set name] [words file]<br/>
+  `-r , --run`     run with selected data set [set name]<br/>
+  `-g, --getlist`  get list of data sets<br/>
   
 To get list of avalable dictionaries run `python main.py -g`
-(`Sets:`
-`basic`
-`biology`
-`literature`)
+`Sets:`<br/>
+`basic`<br/>
+`biology`<br/>
+`literature`
 
 sasdasd
 asdasd
