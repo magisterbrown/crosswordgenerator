@@ -14,7 +14,7 @@ def arguments():
         help="add new data set [set name] [words file]",
     )
     parser.add_argument(
-        "-r", "--run", metavar="", help="run with selected data set [set name]"
+        "-s", "--start", metavar="", help="run with selected data set [set name]"
     )
     parser.add_argument(
         "-g", "--getlist", action="store_true", help="get list of data sets"
