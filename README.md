@@ -23,7 +23,7 @@ Set proportions:<br/>
 `Words:[int val]`
 
 All word are encrypted like `[question num]xxxxx`. For example word  `home` would look like `1xxx`.
-To answer the question write `[question num].[anwer]`. All answers are exactly one word.</br>
+To answer the question write `Answer:``[question num].[anwer]`. All answers are exactly one word.</br>
 If answer is incorrect, word place at crossword will be shaded with red. Otherwise word would be inserted at its place.
 To find words place write `[question num].`
 
