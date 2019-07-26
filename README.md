@@ -27,6 +27,6 @@ To answer the question write `[question num].[anwer]`. All answers are exactly o
 If answer is incorrect, word place at crossword will be shaded with red. Otherwise word would be inserted at its place.
 To find words place write `[question num].`
 
-Commands of `Answer:` field:<br/>]
+Commands of `Answer:` field:<br/>
 `get_hint` allows to see all answers to questions<br/>
 `exit_cr` allows to break execution of programm
