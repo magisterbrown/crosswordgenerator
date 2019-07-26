@@ -38,3 +38,4 @@ To add custom data set create txt file where each line is `[word]|[question]`. A
 Than run `python main.py -a [new set name] [words file]`<br/>
 Now you can find name of this set after running `python main.py -g`
 # Examples
+(demo.gif)
