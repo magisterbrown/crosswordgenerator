@@ -3,6 +3,7 @@ Crossword Generator is a programm that allows to generate crosswords from custom
 At preinstalled word sets dictionarry meanings are used as a questions. This project is made for Vilnius school of AI.
 # Usage
 Install `pip install -r requirements.txt`<br/>
+
 CLI structure: `main.py [-h] [-a ] [-s] [-g]`
 
 optional arguments:<br/>
