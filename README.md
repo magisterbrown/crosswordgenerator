@@ -21,4 +21,4 @@ Set proportions:<br/>
 `SizeX:[int val]`<br/>
 `SizeY:[int val]`<br/>
 `Words:[int val]`<br/>
-
+All word are encrypted like `[question num]xxxxx`
