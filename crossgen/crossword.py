@@ -24,10 +24,10 @@ class Crossword:
 
     def display_answers(self, hint):
 
-        if hint == "get hint":
+        if hint == "get_hint":
             for val in self.answers:
                 print(str(val["item_num"]) + "." + val["word"])
-        elif hint == "exit cr":
+        elif hint == "exit_cr":
             sys.exit()
         else:
             for val in self.answers:
