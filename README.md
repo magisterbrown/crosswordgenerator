@@ -29,5 +29,5 @@ To find words place write `[question num].`
 
 Commands of `Answer:` field:<br/>
 `get_hint` allows to see all answers to questions<br/>
-`exit_cr` allows to break execution of a programm
+`exit_cr` allows to break execution of a programm<br/><br/>
 To
