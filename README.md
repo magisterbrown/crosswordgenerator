@@ -40,4 +40,5 @@ Now you can find name of this set after running `python main.py -g`
 # Examples
 Generate crossword:
 ![alt-text](example_1.gif)
+Add new data set:
 ![alt-text](example_2.gif)
