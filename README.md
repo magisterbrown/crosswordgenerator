@@ -31,3 +31,4 @@ Commands of `Answer:` field:<br/>
 `get_hint` allows to see all answers to questions<br/>
 `exit_cr` allows to break execution of a programm<br/><br/>
 To add custom data set create txt file where each line is `[word]|[question]`. All words with spaces in the middle or not letters would be removed.<br/>
+Than run `python main.py -a [new set name] [words file]`
