@@ -2,7 +2,7 @@
 Crossword Generator is a programm that allows to generate crosswords from custom word sets and solve them.<br/>
 At preinstalled word sets dictionarry meanings are used as a questions. 
 # Usage
-CLI structure: `main.py [-h] [-a ] [-r] [-g]`
+CLI structure: `main.py [-h] [-a ] [-s] [-g]`
 
 optional arguments:<br/>
   `-h, --help`     show this help message and exit<br/>
@@ -24,4 +24,4 @@ Set proportions:<br/>
 All word are encrypted like `[question num]xxxxx`. For example word  `home` would look like `1xxx`.
 To answer the question write `[question num].[anwer]`. All answers are exactly one word.</br>
 If answer is incorrect, word place at crossword will be shaded with red. Otherwise word would be inserted at its place.
-To
+To find words place write `[question num].`
