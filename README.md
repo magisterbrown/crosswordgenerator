@@ -38,4 +38,4 @@ To add custom data set create txt file where each line is `[word]|[question]`. A
 Than run `python main.py -a [new set name] [words file]`<br/>
 Now you can find name of this set after running `python main.py -g`
 # Examples
-<a  href="https://github.com/magisterbrown/crosswordgenerator/blob/master/example_1.png">
+<a style="width:10px;height:10px" href="https://github.com/magisterbrown/crosswordgenerator/blob/master/example_1.png">
