@@ -33,3 +33,4 @@ Commands of `Answer:` field:<br/>
 To add custom data set create txt file where each line is `[word]|[question]`. All words with spaces in the middle or not letters would be removed.<br/>
 Than run `python main.py -a [new set name] [words file]`<br/>
 Now you can find name of this set after running `python main.py -g`
+#Examples
