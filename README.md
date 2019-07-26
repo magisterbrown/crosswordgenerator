@@ -30,4 +30,4 @@ To find words place write `[question num].`
 Commands of `Answer:` field:<br/>
 `get_hint` allows to see all answers to questions<br/>
 `exit_cr` allows to break execution of a programm<br/><br/>
-To add custom data set create txt file where each line is `[word]|[question]`
+To add custom data set create txt file where each line is `[word]|[question]`. All words with spaces in the middle or not characters would be removed.
