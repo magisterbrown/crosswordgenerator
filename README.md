@@ -20,7 +20,8 @@ Than to strat generation process run `python main.py -s [set name]` with name of
 Set proportions:<br/>
 `SizeX:[int val]`<br/>
 `SizeY:[int val]`<br/>
-`Words:[int val]`<br/>
+`Words:[int val]`
+
 All word are encrypted like `[question num]xxxxx`. For example word  `home` would look like `1xxx`.
 To answer the question write `[question num].[anwer]`. All answers are exactly one word.</br>
 If answer is incorrect, word place at crossword will be shaded with red. Otherwise word would be inserted at its place.
