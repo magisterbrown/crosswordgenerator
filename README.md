@@ -18,4 +18,7 @@ To get list of avalable word sets run `python main.py -g`<br/>
 
 Than to strat generation process run `python main.py -r [set name]` with name of one word set.<br/>
 Set proportions:<br/>
+`SizeX:[int val]`<br/>
+`SizeY:[int val]`<br/>
+`Words:[int val]`<br/>
 
