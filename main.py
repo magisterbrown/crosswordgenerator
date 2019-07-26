@@ -27,5 +27,5 @@ if __name__ == "__main__":
     create_set(PROP.add)
     data_sets(PROP.getlist)
 
-    V = Project(PROP.run)
+    V = Project(PROP.start)
     V.display_loop()
