@@ -39,3 +39,4 @@ Than run `python main.py -a [new set name] [words file]`<br/>
 Now you can find name of this set after running `python main.py -g`
 # Examples
 (example_1.png)
+<a target="_blank" href="https://github.com/magisterbrown/crosswordgenerator/edit/master/example_1.png">
